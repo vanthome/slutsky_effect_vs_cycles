@@ -46,6 +46,10 @@ An external event could be a general stock market crash and an underlying event 
 releasing a malfunctioning new generation of a product, in other words, a company intrinsic event.
 We can only look back and we do so, whether that is consciously or unconsciously, but we cannot predict the future based on this retrospective.
 
+## Addendum
+
+If you belive in cycles, you might find [my prediction for the 2024 US presidential elections](US_PRESIDENTIAL_ELECTIONS_CYCLE_ANALYSIS.md) interesting.
+
 ## References
 
 - https://www.jstor.org/stable/1907241
